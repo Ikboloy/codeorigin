@@ -29,7 +29,7 @@ With Node.js 20 or later:
 npm test
 ```
 
-There are no npm dependencies. Nine automated analyzer tests passed during development. The UI JavaScript syntax was checked. A real browser interaction/accessibility audit has not yet been performed. GitHub Actions configuration is supplied but has not run on GitHub for this project.
+There are no npm dependencies. Nine automated analyzer tests passed during development. The UI JavaScript syntax was checked. A real browser interaction/accessibility audit has not yet been performed. GitHub Actions also passed: [initial CI run](https://github.com/Ikboloy/codeorigin/actions/runs/40457010526).
 
 ## Before implementing an authorship model
 
